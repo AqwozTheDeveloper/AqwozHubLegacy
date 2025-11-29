@@ -56,7 +56,7 @@ local visionScripts = loadModule("visionScripts.luau", "https://raw.githubuserco
 visionScripts.init()
 
 -- Aimbot module
-local aimbotScripts = loadModule("aimbotScripts.luau", "https://raw.githubusercontent.com/AqwozTheDeveloper/AqwozHub/refs/heads/main/aimbotScripts.luau")
+local aimbotScripts = loadModule("aimbotScripts.luau", "https://raw.githubusercontent.com/AqwozTheDeveloper/AqwozHubLegacy/refs/heads/main/AqwozHub-main/aimbotScripts.luau")
 aimbotScripts.init()
 
 -- Window
